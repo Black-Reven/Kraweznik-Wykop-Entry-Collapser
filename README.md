@@ -6,7 +6,7 @@ Skrypt do rozszerzenia Tampermonkey, który dodaje możliwość zwijania i rozwi
 Skrypt wręcz **Must Have** dla ludzi którzy śledzą gorące, a dzięki któremu łatwo ukryjesz przeczytane już wpisy i zrobisz porządek na mikroblogu.
 
 ## Główne funkcje:
-* **Zwijanie wpisów:** Dodaje dyskretny przycisk (`−` / `+`) obok ocen wpisu (działa na mikroblogu jak i stronie głównej).
+* **Zwijanie wpisów:** Dodaje przycisk (`−` / `+`) obok ocen wpisu (działa na mikroblogu jak i stronie głównej).
 * **Pamięć sesji:** Skrypt zapamiętuje, które wpisy zostały zwinięte. Po odświeżeniu strony przeczytane wpisy nadal będą ukryte.
 * **Auto-czyszczenie:** Aby nie zaśmiecać pamięci przeglądarki, zwinięte wpisy są automatycznie usuwane z pamięci po 3 dniach.
 

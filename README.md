@@ -1,9 +1,9 @@
-# Krawężnik-Wykop-Entry-Collapser
+# Krawężnik aka Wykop Entry Collapser
 
 ![Podgląd skryptu](Preview.png)
 
 Skrypt do rozszerzenia Tampermonkey, który dodaje możliwość zwijania i rozwijania wpisów na portalu Wykop.pl. 
-Skrypt wręcz Must Have dla ludzi którzy śledzą gorące, a dzięki któremu łatwo ukryjesz przeczytane już wpisy i zrobisz porządek na mikroblogu.
+Skrypt wręcz **Must Have** dla ludzi którzy śledzą gorące, a dzięki któremu łatwo ukryjesz przeczytane już wpisy i zrobisz porządek na mikroblogu.
 
 ## Główne funkcje:
 * **Zwijanie wpisów:** Dodaje dyskretny przycisk (`−` / `+`) obok ocen wpisu (działa na mikroblogu jak i stronie głównej).
@@ -15,7 +15,7 @@ Skrypt został stworzony do współpracy ze zmienionym interfejsem. Osobiście u
  **[Wykop X / The Best Style](https://github.com/tentin-quarantino/wykop-the-best-style)**  
 Bardzo polecam, ponieważ przywraca on stary dobry wygląd wykopu.
 
-* **Skrypt bez dodatkowego wyglądu również działa, lecz znak "-" do zwijania nie ma ramki wokół siebie.**
+> Skrypt bez dodatkowego wyglądu również działa, lecz znak "-" do zwijania nie ma ramki wokół siebie.
 
 ## Instalacja:
 
@@ -25,3 +25,13 @@ Bardzo polecam, ponieważ przywraca on stary dobry wygląd wykopu.
 **[ZAINSTALUJ SKRYPT](https://github.com/Black-Reven/Kraweznik-Wykop-Entry-Collapser/raw/main/Kraweznik.user.js)**
 
 *(Po kliknięciu, Tampermonkey otworzy nową kartę z prośbą o potwierdzenie instalacji. Kliknij "Zainstaluj").*
+
+## WAŻNE!!!
+Chciałbym zaznaczyć, że **nie jestem programistą**, a samo programowanie to dla mnie czarna magia.   
+Skrypt powstał z potrzeby oraz wizji, którą udało się przekształcić w działający kod przy wsparciu różnych AI.
+
+Zależy mi na tym, aby to narzędzie było jak najlepsze dla wszystkich użytkowników Wykopu. Jeśli zauważysz w kodzie błędy, braki lub masz pomysł na optymalizację to **bardzo proszę o ich wypunktowanie**. Będę wdzięczny za każdą pomoc, a jeszcze bardziej za gotowe edycje kodu wraz z poprawkami!
+
+---
+> ### Ciekawostka:
+> Nazwa **"Krawężnik"** pochodzi z oryginalnego skryptu kiedy to na Wykop.pl można było jeszcze bezpośrednio instalować dodatki. Sam skrypt był na szczycie popularności, lecz było to z dobre 13 lat temu.

@@ -1,6 +1,6 @@
 # Krawężnik-Wykop-Entry-Collapser
 
-![Podgląd skryptu](preview.png)
+![Podgląd skryptu](Preview.png)
 
 Skrypt do rozszerzenia Tampermonkey, który dodaje możliwość zwijania i rozwijania wpisów na portalu Wykop.pl. 
 Skrypt wręcz Must Have dla ludzi którzy śledzą gorące, a dzięki któremu łatwo ukryjesz przeczytane już wpisy i zrobisz porządek na mikroblogu.

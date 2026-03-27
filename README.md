@@ -10,7 +10,7 @@ Skrypt wręcz **Must Have** dla ludzi którzy śledzą gorące, a dzięki które
 * **Pamięć sesji:** Skrypt zapamiętuje, które wpisy zostały zwinięte. Po odświeżeniu strony przeczytane wpisy nadal będą ukryte.
 * **Auto-czyszczenie:** Aby nie zaśmiecać pamięci przeglądarki, zwinięte wpisy są automatycznie usuwane z pamięci po 3 dniach.
 
-## Ważne! Rekomendowany wygląd:
+## Rekomendowany wygląd:
 Skrypt został stworzony do współpracy ze zmienionym interfejsem. Osobiście używam go w połączeniu z rozszerzeniem **Stylus** oraz stylem:
  **[Wykop X / The Best Style](https://github.com/tentin-quarantino/wykop-the-best-style)**  
 Bardzo polecam, ponieważ przywraca on stary dobry wygląd wykopu.
@@ -24,7 +24,7 @@ Bardzo polecam, ponieważ przywraca on stary dobry wygląd wykopu.
 
 **[ZAINSTALUJ SKRYPT](https://github.com/Black-Reven/Kraweznik-Wykop-Entry-Collapser/raw/main/Kraweznik.user.js)**
 
-*(Po kliknięciu, Tampermonkey otworzy nową kartę z prośbą o potwierdzenie instalacji. Kliknij "Zainstaluj").*
+**[ZAINSTALUJ PRZEZ GREASY FORK](https://greasyfork.org/pl/scripts/571424-kraw%C4%99%C5%BCnik-wykop-entry-collapser)** 
 
 ## WAŻNE!!!
 Chciałbym zaznaczyć, że **nie jestem programistą**, a samo programowanie to dla mnie czarna magia.   

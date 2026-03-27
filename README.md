@@ -5,12 +5,19 @@
 Skrypt do rozszerzenia Tampermonkey, który dodaje możliwość zwijania i rozwijania wpisów na portalu Wykop.pl. 
 Skrypt wręcz Must Have dla ludzi którzy śledzą gorące, a dzięki któremu łatwo ukryjesz przeczytane już wpisy i zrobisz porządek na mikroblogu.
 
-## Główne funkcje
+## Główne funkcje:
 * **Zwijanie wpisów:** Dodaje dyskretny przycisk (`−` / `+`) obok ocen wpisu (działa na mikroblogu jak i stronie głównej).
 * **Pamięć sesji:** Skrypt zapamiętuje, które wpisy zostały zwinięte. Po odświeżeniu strony przeczytane wpisy nadal będą ukryte.
 * **Auto-czyszczenie:** Aby nie zaśmiecać pamięci przeglądarki, zwinięte wpisy są automatycznie usuwane z pamięci po 3 dniach.
 
-##  Instalacja
+## Ważne! Rekomendowany wygląd:
+Skrypt został stworzony do współpracy ze zmienionym interfejsem. Osobiście używam go w połączeniu z rozszerzeniem **Stylus** oraz stylem:
+👉 **[Wykop X / The Best Style](https://github.com/tentin-quarantino/wykop-the-best-style)** 
+Bardzo polecam, ponieważ przywraca on stary dobry wygląd wykopu.
+
+* **Skrypt bez dodatkowego wyglądu również działa, lecz znak "-" do zwijania nie ma ramki wokół siebie.**
+
+## Instalacja:
 
 1. Zainstaluj darmowe rozszerzenie **Tampermonkey** dla swojej przeglądarki: ([Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) / [Firefox](https://addons.mozilla.org/pl/firefox/addon/tampermonkey/) / [Edge](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)).
 2. Kliknij w poniższy link, aby zainstalować skrypt:
